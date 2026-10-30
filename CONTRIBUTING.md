@@ -20,7 +20,7 @@
 ### 通用
 
 - 中文写作，代码与术语保留英文
-- 一题一文件 / 一文一文件，文件名英文 kebab-case：`mysql-why-btree-index.md`
+- 一题一文件 / 一文一文件，文件名使用中文（可含英文缩写，不用空格）：`MySQL为什么用B+树索引.md`
 - 新增内容后，在所在目录（或语言子目录）的 `questions/README.md`、`articles/README.md` 索引表中登记一行
 
 ### 面试题

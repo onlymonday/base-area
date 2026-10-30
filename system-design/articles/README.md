@@ -4,7 +4,7 @@
 
 ## 收录标准
 
-- 一文一文件，文件名使用英文 kebab-case，如 `mysql-mvcc-in-depth.md`
+- 一文一文件，文件名使用中文（可含英文缩写，不用空格），如 `场景设计题还有必要么.md`
 - 使用 [文章模板](../../docs/templates/article-template.md) 编写
 
 ## 索引
@@ -13,3 +13,7 @@
 
 | 文章 | 一句话简介 |
 | ---- | ---- |
+| [AI 编码时代，场景设计题还有必要吗？](场景设计题还有必要么.md) | 代码越便宜，设计越贵——背诵贬值、推演升值，附对比练习法 |
+| [后端 AI 场景设计题：题库与论证](backend-ai-scenario-questions.md) | 为什么 AI 需要单独的题库：四维度论证 + 8 道示范题总览 |
+
+> AI 场景题已拆分为一题一文件的题库地图（28 题，中文文件名）：[system-design/questions/ai/](../questions/ai/README.md)

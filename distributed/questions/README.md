@@ -4,7 +4,7 @@
 
 ## 收录标准
 
-- 一题一文件，文件名使用英文 kebab-case，如 `mysql-why-btree-index.md`
+- 一题一文件，文件名使用中文（可含英文缩写，不用空格），如 `MySQL为什么用B+树索引.md`
 - 每题包含：题目、难度、标签、答案、常见追问
 - 使用 [面试题模板](../../docs/templates/question-template.md) 编写
 

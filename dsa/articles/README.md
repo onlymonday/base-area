@@ -4,7 +4,7 @@
 
 ## 收录标准
 
-- 一文一文件，文件名使用英文 kebab-case，如 `mysql-mvcc-in-depth.md`
+- 一文一文件，文件名使用中文（可含英文缩写，不用空格），如 `场景设计题还有必要么.md`
 - 使用 [文章模板](../../docs/templates/article-template.md) 编写
 
 ## 索引
